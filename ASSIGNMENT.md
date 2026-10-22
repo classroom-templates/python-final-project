@@ -21,6 +21,8 @@ This reflects how software is often developed professionally: a programmer or
 team may be responsible for one class, library, subsystem, service, or other
 component that will later be integrated into a larger system.
 
+Use [the example repo](https://github.com/alexander-katrompas/OOP-Python-simple-example) to help you develop your solution.
+
 ---
 
 # Project Goal
